@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Ash-Codename47's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ash-Codename47&show_icons=true&count_private=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
+[twitter]: https://twitter.com/jkak27
+[instagram]: https://www.instagram.com/jkak_27
+[linkedin]: https://www.linkedin.com/in/ashwin-kumar-jk-4a6a87103/
 
