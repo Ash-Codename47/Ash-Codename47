@@ -1,4 +1,4 @@
-## Hey there!  I'm Ashwin - aka [Ash-Codename47] 😁✌
+# Hey there!  I'm Ashwin - aka [Ash-Codename47] 😁✌
 
 <!--
 **Ash-Codename47/Ash-Codename47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Ash-Codename47's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ash-Codename47&show_icons=true&count_private=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-# Connect with me:
+## Connect with me:
 
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/ashwin-kumar-jk-4a6a87103#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/ashwin-kumar-jk-4a6a87103#gh-dark-mode-only)
