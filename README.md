@@ -1,4 +1,4 @@
-## Hey there! <br> I'm Ashwin - aka [Ash-Codename47] 👋
+## Hey there! &nbsp I'm Ashwin - aka [Ash-Codename47] 👋
 
 <!--
 **Ash-Codename47/Ash-Codename47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
