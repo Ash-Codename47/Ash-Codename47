@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/jkak27
 [instagram]: https://www.instagram.com/jkak_27
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-Codename47&layout=compact&theme=radical&card_width=275)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-Codename47&layout=compact&theme=radical&card_width=275)
