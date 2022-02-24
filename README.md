@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/jkak27#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/jkak27#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/jkak27#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/jkak27#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ashwin-kumar-jk-4a6a87103#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ashwin-kumar-jk-4a6a87103#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/ashwin-kumar-jk-4a6a87103#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/ashwin-kumar-jk-4a6a87103#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/jkak_27#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/jkak_27#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://instagram.com/jkak_27#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/jkak_27#gh-dark-mode-only)
 
 
 [twitter]: https://twitter.com/jkak27
