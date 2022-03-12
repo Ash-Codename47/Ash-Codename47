@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <table align="center">
   <tr>
-    <td>🤖You are visitor🤖</td>
+    <td>🤖 You are visitor 🤖</td>
     <td><img src="https://profile-counter.glitch.me/Ash-Codename47/count.svg" alt="vistor count" height="20" /></td>
   </tr>
 </table>
