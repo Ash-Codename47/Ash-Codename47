@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <table align="center">
   <tr>
     <td> Profile Views </td>
-    <td><img src="https://profile-counter.glitch.me/Ash-Codename47/count.svg" alt="vistor count" height="10" /></td>
+    <td><img src="https://profile-counter.glitch.me/Ash-Codename47/count.svg" alt="vistor count" height="15" /></td>
   </tr>
 </table>
 
