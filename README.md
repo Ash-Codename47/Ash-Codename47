@@ -1,4 +1,4 @@
-# Hello World! I'm Ashwin, aka Ash-Codename47 😁✌
+# Hello World! I'm Ashwin, aka Ash-Codename47  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25"> 😁 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="25">
 
 <!--
 **Ash-Codename47/Ash-Codename47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
