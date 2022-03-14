@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=git,cpp,java,html,css,js,jquery,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,cpp,java,html,css,bootstrap,js,jquery,nodejs,react)](https://skillicons.dev)
 
 
 ## Connect with me:
