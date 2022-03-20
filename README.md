@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<img height="100" alt="Thanks for visiting me" width="100%" align="center" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 
 ![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ash-Codename47&show_icons=true&theme=dark)
 
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=git,cpp,java,html,css,bootstrap,js,jquery,nodejs,react)](https://skillicons.dev)
 
+<img height="100" alt="Thanks for visiting me" width="100%" align="center" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 ## Connect with me:
 
