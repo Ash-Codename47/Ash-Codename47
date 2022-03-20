@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br />
 
-![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ash-Codename47&show_icons=true&theme=dark)
+![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ash-Codename47&show_icons=true&theme=github_dark)
 
 <br />
 
