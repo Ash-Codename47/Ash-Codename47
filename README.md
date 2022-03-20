@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=git,cpp,java,html,css,bootstrap,js,jquery,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,cpp,java,html,css,bootstrap,js,jquery,react,nodejs,express)](https://skillicons.dev)
 
 <img height="100" alt="Thanks for visiting me" width="100%" align="center" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
