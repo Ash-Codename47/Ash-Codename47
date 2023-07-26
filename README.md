@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@SRM_University](https://srmrmp.edu.in)** pursuing CSE. I'm a **Tech Enthusiast 🖥️😁** passionate about learning and working with new tech. I love building interesting and amazing stuff that serves a great deal of purpose. <br/><br/>
 
@@ -35,12 +33,11 @@ I'm an **Undergrad Student🎓 [@SRM_University](https://srmrmp.edu.in)** pursui
 <br />
 
 ![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ash-Codename47&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-Codename47&layout=donut&theme=github_dark)
 
 <br />
 
 [![My Skills](https://skillicons.dev/icons?i=git,cpp,java,html,css,bootstrap,js,jquery,react,nodejs,express)](https://skillicons.dev)
-
-<img height="100" alt="Thanks for visiting me" width="100%" align="center" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 </details>
 
