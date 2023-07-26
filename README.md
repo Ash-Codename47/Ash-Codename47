@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@SRM_University](https://srmrmp.edu.in)** pursuing CSE. I'm a **Tech Enthusiast 🖥️😁** passionate about learning and working with new tech. I love building interesting and amazing stuff that serves a great deal of purpose. <br/><br/>
+I'm an **Final year Student🎓 [@SRM_University](https://srmrmp.edu.in)** pursuing CSE. I'm a **Full Stack developer 🖥️😁** passionate about learning and working with projects. <br/><br/>
 
 ![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
 
