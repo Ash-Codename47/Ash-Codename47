@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Final year Student🎓 [@SRM_University](https://srmrmp.edu.in)** pursuing CSE. I'm a **Full Stack developer 🖥️😁** passionate about learning and working with projects. <br/><br/>
+I'm an **Final year Student🎓 [@SRM_University](https://srmrmp.edu.in)** pursuing CSE. I'm a **Full Stack developer 🖥️😁** passionate about learning and working with projects.
+My expertise lies in full-stack development, where I have honed my skills in **front-end** technologies, such as Javascript and Reactjs, as well as **back-end** technologies like Node.js and MongoDB. I am currently working on improving my skills in the domain that interests me. In addition to my proficiency in software development, I also possess specialized skills in **Salesforce development** and **Azure cloud** technologies.<br /><br />
+I am committed to staying updated with the latest trends and best practices in the industry. If you are interested in discussing technology, software development, or potential collaboration, feel free to connect with me!
+<br/><br />
 
 ![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
 
