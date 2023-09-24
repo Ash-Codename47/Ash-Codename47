@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hello!, I am <a href="https://github.com/Ash-Codename47">Ash</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1>Hello!, I am <a href="https://github.com/Ash-Codename47">Ash</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 <!--
 **Ash-Codename47/Ash-Codename47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> 
 I'm an **Final year Student🎓 [@SRM_University](https://srmrmp.edu.in)** pursuing CSE. I'm a **Full Stack developer 🖥️😁** passionate about learning and working with projects.
 My expertise lies in full-stack development, where I have honed my skills in **front-end** technologies, such as Javascript and Reactjs, as well as **back-end** technologies like Node.js and MongoDB. I am currently working on improving my skills in the domain that interests me. In addition to my proficiency in software development, I also possess specialized skills in **Salesforce development** and **Azure cloud** technologies.<br /><br />
 I am committed to staying updated with the latest trends and best practices in the industry. If you are interested in discussing technology, software development, or potential collaboration, feel free to connect with me!
