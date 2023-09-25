@@ -42,9 +42,6 @@ I am committed to staying updated with the latest trends and best practices in t
 
 [![My Skills](https://skillicons.dev/icons?i=git,cpp,java,html,css,bootstrap,js,jquery,react,nodejs,express)](https://skillicons.dev)
 
-<img src="https://raw.githubusercontent.com/Ash-Codename47/Ash-Codename47/output/snake.svg" alt="Snake animation" />
-
-###
 </details>
 
 <hr />
