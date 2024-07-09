@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> 
 I'm a **CSE Graduate🎓 from [@SRM_University](https://srmrmp.edu.in)**. I'm a **Java developer 🖥️😁** passionate about learning and working with projects.
-My expertise lies in full-stack development, where I have honed my skills in **front-end** technologies, such as Javascript and Reactjs, as well as **back-end** technologies like Node.js and MongoDB. I am currently working on improving my skills in the domain that interests me. In addition to my proficiency in software development, I also possess specialized skills in **Salesforce development** and **Azure cloud** technologies.<br /><br />
+My expertise lies in full-stack web development, where I have honed my skills in **front-end** technologies, such as Javascript and Reactjs, as well as **back-end** technologies like Node.js and MongoDB. I am currently working on improving my skills in the domain that interests me. In addition to my proficiency in software development, I also possess specialized skills in **Salesforce development** and **Azure cloud** technologies.<br /><br />
 I am committed to staying updated with the latest trends and best practices in the industry. If you are interested in discussing technology, software development, or potential collaboration, feel free to connect with me!
 <br/><br />
 
